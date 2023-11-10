@@ -2,9 +2,12 @@
 
 <h3>&nbsp;Me</h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Enginering at Brigham Younh University Idaho..yungPromptlyHighlightButton * {all:revert !important;}
-
+<ul>
+  <li>🤔 &nbsp; Always making sure I stay creative and curious</li>
+  <li>🗣️💯 &nbsp; Compassion kills evil</li>
+  <li>🤓 &nbsp; BSc in Systems Science with a love-hate relationship to psychology and behavior</li>
+</ul>
+<br/>
 
 <h3> 🛠 &nbsp;Tech I keep returning to</h3>
 
@@ -26,15 +29,16 @@ tools &nbsp;
   	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<br/><br/>
+
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hedonicadapter)]
 
+<br/>
+<h3>Come find me ƪ(˘⌣˘)ʃ </h3>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://cameronthompson.io"><img src="https://img.shields.io/badge/-cameronthompson.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/cameron-thompson96"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:camthomp96@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://hedonicadapter.vercel.app/"><img src="https://img.shields.io/badge/-portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="www.linkedin.com/in/sam-herman"><img src="https://img.shields.io/badge/-Sam%20Herman-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mailservice.samherman@gamil.com"><img src="https://img.shields.io/badge/-mailservice.samherman@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
