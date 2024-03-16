@@ -36,7 +36,7 @@ tools &nbsp;
 <br/>
 <h3>Come find me ƪ(˘⌣˘)ʃ </h3>
 
-<a href="https://hedonicadapter.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://hedonicadapter.com/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="www.linkedin.com/in/sam-herman"><img src="https://img.shields.io/badge/-Sam%20Herman-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mailservice.samherman@gamil.com"><img src="https://img.shields.io/badge/-mailservice.samherman@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
