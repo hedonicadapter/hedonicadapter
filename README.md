@@ -3,7 +3,6 @@
 <h3>&nbsp;Me</h3>
 
 <ul>
-  <li>🤔 &nbsp; Always making sure I stay creative and curious</li>
   <li>🗣️💯 &nbsp; Compassion kills evil</li>
   <li>🤓 &nbsp; BSc in Systems Science with a love-hate relationship to psychology and behavior</li>
 </ul>
