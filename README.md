@@ -28,6 +28,38 @@ tools &nbsp;
 <br/><br/>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 537 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 23 Private Repositories 
+ > 
+**I Mostly Code in C#** 
+
+```text
+C#                       15 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
+TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/hedonicadapter/hedonicadapter/main/assets/bar_graph.png)
+
+
+ Last Updated on 01/09/2024 20:11:43 UTC
 <!--END_SECTION:waka-->
 
 <br/>
