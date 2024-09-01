@@ -27,7 +27,8 @@ tools &nbsp;
 
 <br/><br/>
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hedonicadapter)]
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/>
 <h3>Come find me ƪ(˘⌣˘)ʃ </h3>
