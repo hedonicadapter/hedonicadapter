@@ -6,7 +6,7 @@ BSc in Systems Science with a love-hate relationship to psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C548%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C552%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
@@ -35,14 +35,12 @@ Sunday                   422 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 21 mins      ███████████████░░░░░░░░░░   61.12 % 
-Nix                      6 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   33.94 % 
-Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+TypeScript               15 hrs 48 mins      ███████████████████░░░░░░   77.50 % 
+Nix                      4 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
 
 🐱‍💻 Projects: 
-nixos                    19 hrs 12 mins      ████████████████████████░   94.99 % 
-Unknown Project          59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-colors                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+nixos                    20 hrs 23 mins      █████████████████████████   99.96 % 
+colors                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
