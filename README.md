@@ -1,6 +1,6 @@
 <h2>Hullo (✿◡‿◡)</h2>
 
-BSc in Systems Science with a love-hate relationship to psychology and behavior
+BSc in Systems Science and a love-hate relationship with psychology and behavior
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hedonicadapter&theme=high-contrast"/>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
