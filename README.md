@@ -6,8 +6,6 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C841%20hrs%2053%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
 
 
