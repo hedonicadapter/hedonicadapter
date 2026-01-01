@@ -6,9 +6,9 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C383%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C383%20hrs%2047%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.86%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -35,14 +35,15 @@ Sunday                   434 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Terraform                31 mins             ██████████░░░░░░░░░░░░░░░   39.80 % 
-TypeScript               19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-YAML                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Terraform                31 mins             █████████░░░░░░░░░░░░░░░░   37.20 % 
+TypeScript               19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+YAML                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 🐱‍💻 Projects: 
-boleva                   1 hr 19 mins        █████████████████████████   100.00 % 
+boleva                   1 hr 19 mins        ███████████████████████░░   93.48 % 
+Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 ```
 
 
