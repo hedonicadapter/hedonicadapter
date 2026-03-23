@@ -8,7 +8,46 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C612%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.25%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.28%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2403 commits        █████████░░░░░░░░░░░░░░░░   36.44 % 
+🌆 Daytime                3240 commits        ████████████░░░░░░░░░░░░░   49.13 % 
+🌃 Evening                928 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1641 commits        ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Tuesday                  955 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Wednesday                1214 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Thursday                 877 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Friday                   913 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Saturday                 561 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Sunday                   434 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               5 hrs 42 mins       █████████████░░░░░░░░░░░░   51.44 % 
+Lua                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Bash                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Nix                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+
+🐱‍💻 Projects: 
+DAL                      6 hrs 2 mins        ██████████████░░░░░░░░░░░   54.41 % 
+neovim-config            1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+boleva                   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+glenjamin                1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+colors                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+```
 
 
 <!--END_SECTION:waka-->
