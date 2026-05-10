@@ -6,9 +6,48 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C671%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C673%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.80%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3579 commits        ██████████░░░░░░░░░░░░░░░   39.24 % 
+🌆 Daytime                4666 commits        █████████████░░░░░░░░░░░░   51.16 % 
+🌃 Evening                851 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2538 commits        ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+Tuesday                  1262 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Wednesday                1831 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Thursday                 1262 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Friday                   1250 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Saturday                 577 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Sunday                   400 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               10 hrs 14 mins      ████████████████░░░░░░░░░   65.62 % 
+Markdown                 2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Astro                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+
+🐱‍💻 Projects: 
+boleva                   14 hrs 4 mins       ███████████████████████░░   90.20 % 
+runbook                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Unknown Project          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+API                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+DiffviewFilePanel        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+```
 
 
 <!--END_SECTION:waka-->
