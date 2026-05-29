@@ -6,7 +6,46 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.99%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C721%20hrs%2045%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.80%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3579 commits        ██████████░░░░░░░░░░░░░░░   39.24 % 
+🌆 Daytime                4667 commits        █████████████░░░░░░░░░░░░   51.17 % 
+🌃 Evening                851 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2538 commits        ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+Tuesday                  1263 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Wednesday                1831 commits        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Thursday                 1262 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Friday                   1250 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Saturday                 577 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Sunday                   400 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               9 hrs 34 mins       ██████████████████████░░░   87.20 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Astro                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+
+🐱‍💻 Projects: 
+boleva                   10 hrs 34 mins      ████████████████████████░   96.29 % 
+Unknown Project          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+restider                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
 
 
 <!--END_SECTION:waka-->
