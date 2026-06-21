@@ -10,45 +10,6 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.99%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4309 commits        ██████████░░░░░░░░░░░░░░░   40.04 % 
-🌆 Daytime                5573 commits        █████████████░░░░░░░░░░░░   51.79 % 
-🌃 Evening                855 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2981 commits        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-Tuesday                  1570 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Wednesday                2167 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Thursday                 1519 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Friday                   1518 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Saturday                 606 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Sunday                   400 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               4 hrs 12 mins       ███████████████░░░░░░░░░░   58.74 % 
-Go                       2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.20 % 
-CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-
-🐱‍💻 Projects: 
-boleva                   4 hrs 38 mins       ████████████████░░░░░░░░░   64.71 % 
-TermiV2                  2 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.04 % 
-call_QSJ7YoochRIFQuw1ITVm3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-OGVkMjI2OGMtNzc3OC00YjgxL1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-null                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
-
 
 <!--END_SECTION:waka-->
 
