@@ -6,48 +6,9 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C761%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C765%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.86%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4581 commits        ██████████░░░░░░░░░░░░░░░   39.99 % 
-🌆 Daytime                5907 commits        █████████████░░░░░░░░░░░░   51.57 % 
-🌃 Evening                943 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3107 commits        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-Tuesday                  1717 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Wednesday                2295 commits        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Thursday                 1612 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Friday                   1623 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Saturday                 667 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Sunday                   434 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               5 hrs 41 mins       ████████████████░░░░░░░░░   64.05 % 
-Nix                      1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Bash                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-
-🐱‍💻 Projects: 
-boleva                   6 hrs 46 mins       ███████████████████░░░░░░   76.13 % 
-nixos                    1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-repo                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-null                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-```
 
 
 <!--END_SECTION:waka-->
