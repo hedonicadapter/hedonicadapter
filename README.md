@@ -6,48 +6,9 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C796%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C799%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.88%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4611 commits        ██████████░░░░░░░░░░░░░░░   40.06 % 
-🌆 Daytime                5931 commits        █████████████░░░░░░░░░░░░   51.53 % 
-🌃 Evening                943 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3134 commits        ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-Tuesday                  1726 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Wednesday                2305 commits        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Thursday                 1614 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Friday                   1629 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Saturday                 667 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Sunday                   434 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               13 hrs 7 mins       █████████████████░░░░░░░░   68.65 % 
-Nix                      1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Markdown                 1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Go                       1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-
-🐱‍💻 Projects: 
-boleva                   15 hrs 7 mins       ████████████████████░░░░░   79.13 % 
-dotfiles                 2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-TermiV2                  1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-DiffviewFilePanel        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.06%20million%20lines%20of%20code-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
