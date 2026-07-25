@@ -6,7 +6,45 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.25%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C821%20hrs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.88%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4621 commits        ██████████░░░░░░░░░░░░░░░   40.07 % 
+🌆 Daytime                5943 commits        █████████████░░░░░░░░░░░░   51.53 % 
+🌃 Evening                944 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3134 commits        ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+Tuesday                  1733 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Wednesday                2305 commits        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Thursday                 1614 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Friday                   1635 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Saturday                 674 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Sunday                   437 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               2 hrs 38 mins       ████████████████████░░░░░   81.68 % 
+Nix                      32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+
+🐱‍💻 Projects: 
+boleva                   2 hrs 41 mins       █████████████████████░░░░   83.32 % 
+nixos                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+dotfiles                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+```
 
 
 <!--END_SECTION:waka-->
