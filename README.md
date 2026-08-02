@@ -37,26 +37,26 @@ Sunday                   457 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Nix                      9 hrs 19 mins       █████████████░░░░░░░░░░░░   50.15 % 
-Markdown                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Rust                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-JavaScript               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Python                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Nix                      7 hrs 49 mins       ███████████░░░░░░░░░░░░░░   45.96 % 
+Markdown                 3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Rust                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+JavaScript               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Python                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 🐱‍💻 Projects: 
-remoat                   6 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.77 % 
-dotfiles                 5 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.07 % 
-nixos                    4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-samherman1               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+remoat                   6 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.08 % 
+dotfiles                 5 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.03 % 
+nixos                    2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+samherman1               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Unknown Project          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 3 mins (70.23%)
+⏱ AI Coding Time: 13 hrs 3 mins (76.72%)
 
-✍️ 6,245 lines written by AI, 284 lines written by hand (95.65% AI-written)
+✍️ 6,245 lines written by AI, 267 lines written by hand (95.9% AI-written)
 
 🔤 124,206,605 Input Tokens, 638,207 Output Tokens
 
@@ -68,10 +68,10 @@ Opus                     7,079 lines         ███████████�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.65% of written lines came from AI
+🤖 AI-Driven — 95.9% of written lines came from AI
 📄 Detailed Prompter — average 519 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 8.4% of changed lines were hand-edited
+🚀 High AI Trust — 8.06% of changed lines were hand-edited
 ```
 
 
