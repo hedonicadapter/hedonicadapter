@@ -6,9 +6,9 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C798%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C799%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-156%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.98%20million%20lines%20of%20code-blue?style=flat)
 
@@ -37,41 +37,41 @@ Sunday                   457 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Nix                      5 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.59 % 
-Markdown                 2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Rust                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-JavaScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Nix                      1 hr 9 mins         ████████████████░░░░░░░░░   63.32 % 
+JavaScript               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Text                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Rust                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🐱‍💻 Projects: 
-remoat                   6 hrs 10 mins       ████████████░░░░░░░░░░░░░   47.92 % 
-dotfiles                 3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-nixos                    2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-samherman1               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+dotfiles                 40 mins             █████████░░░░░░░░░░░░░░░░   37.02 % 
+nixos                    29 mins             ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+boleva                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+remoat                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+samherman1               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 1 min (77.74%)
+⏱ AI Coding Time: 1 hr 3 mins (57.48%)
 
-✍️ 4,892 lines written by AI, 243 lines written by hand (95.27% AI-written)
+✍️ 239 lines written by AI, 180 lines written by hand (57.04% AI-written)
 
-🔤 102,488,228 Input Tokens, 506,685 Output Tokens
+🔤 16,480,223 Input Tokens, 82,812 Output Tokens
 
-💵 $534.80 Estimated AI Cost This Week
+💵 $153.01 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 71 AI Prompts
+🧠 6 AI Sessions, 13 AI Prompts
 
-Opus                     5,660 lines         █████████████████████████   100.00 % 
+Opus                     487 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.27% of written lines came from AI
-📄 Detailed Prompter — average 596 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 9.14% of changed lines were hand-edited
+⚖️ Balanced with AI — 57.04% of written lines came from AI
+📄 Detailed Prompter — average 904 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 58.07% of changed lines were hand-edited
 ```
 
 
