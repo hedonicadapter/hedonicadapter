@@ -10,26 +10,26 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.00%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4862 commits        ██████████░░░░░░░░░░░░░░░   39.94 % 
-🌆 Daytime                6247 commits        █████████████░░░░░░░░░░░░   51.32 % 
-🌃 Evening                1040 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+🌞 Morning                4886 commits        ██████████░░░░░░░░░░░░░░░   39.94 % 
+🌆 Daytime                6267 commits        █████████████░░░░░░░░░░░░   51.23 % 
+🌃 Evening                1055 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3330 commits        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-Tuesday                  1847 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Wednesday                2411 commits        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Thursday                 1698 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Friday                   1720 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Saturday                 703 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Sunday                   464 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Monday                   3338 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Tuesday                  1859 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Wednesday                2419 commits        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Thursday                 1708 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Friday                   1727 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Saturday                 714 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Sunday                   467 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 ```
 
 
@@ -37,41 +37,41 @@ Sunday                   464 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Nix                      1 hr 38 mins        ██████████████░░░░░░░░░░░   57.53 % 
-Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Text                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-TypeScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Other                    27 mins             █████████░░░░░░░░░░░░░░░░   35.68 % 
+Nix                      16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Text                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+TypeScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 
 🐱‍💻 Projects: 
-dotfiles                 1 hr 49 mins        ████████████████░░░░░░░░░   63.84 % 
-spaced-learner           41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-boleva                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-nixos                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+spaced-learner           41 mins             ██████████████░░░░░░░░░░░   54.18 % 
+dotfiles                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+boleva                   12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+nixos                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 39 mins (93.48%)
+⏱ AI Coding Time: 1 hr 5 mins (86.6%)
 
-✍️ 11 lines written by AI, 3 lines written by hand (78.57% AI-written)
+✍️ 1 lines written by AI, 3 lines written by hand (25.0% AI-written)
 
-🔤 8,477,079 Input Tokens, 346,054 Output Tokens
+🔤 3,145,506 Input Tokens, 297,469 Output Tokens
 
-💵 $47.26 Estimated AI Cost This Week
+💵 $19.39 Estimated AI Cost This Week
 
-🧠 192 AI Sessions, 201 AI Prompts
+🧠 190 AI Sessions, 196 AI Prompts
 
-Opus                     11 lines            █████████████████████████   100.00 % 
+Opus                     1 lines             █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.57% of written lines came from AI
-📚 Verbose Prompter — average 1,783 characters per prompt
+🧑‍💻 Mostly Hands-On — 25.0% of written lines came from AI
+📚 Verbose Prompter — average 1,817 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 21.43% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 75.0% of changed lines were hand-edited
 ```
 
 
