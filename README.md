@@ -15,21 +15,21 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4886 commits        ██████████░░░░░░░░░░░░░░░   39.94 % 
-🌆 Daytime                6267 commits        █████████████░░░░░░░░░░░░   51.23 % 
-🌃 Evening                1055 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+🌞 Morning                4912 commits        ██████████░░░░░░░░░░░░░░░   39.97 % 
+🌆 Daytime                6288 commits        █████████████░░░░░░░░░░░░   51.16 % 
+🌃 Evening                1066 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3338 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-Tuesday                  1859 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Wednesday                2419 commits        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Thursday                 1708 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Friday                   1727 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Saturday                 714 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Sunday                   467 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Monday                   3350 commits        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+Tuesday                  1869 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Wednesday                2424 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Thursday                 1718 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Friday                   1734 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Saturday                 725 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Sunday                   470 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 ```
 
 
