@@ -37,40 +37,37 @@ Sunday                   473 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    27 mins             ██████████░░░░░░░░░░░░░░░   38.61 % 
-Nix                      16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-Text                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Other                    27 mins             ███████████████░░░░░░░░░░   59.70 % 
+TypeScript               10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+Nix                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 🐱‍💻 Projects: 
-spaced-learner           41 mins             ███████████████░░░░░░░░░░   58.63 % 
-dotfiles                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-boleva                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-nixos                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+spaced-learner           41 mins             ███████████████████████░░   90.66 % 
+dotfiles                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+nixos                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (93.72%)
+⏱ AI Coding Time: 41 mins (90.3%)
 
-✍️ 1 lines written by AI, 3 lines written by hand (25.0% AI-written)
+✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
 
-🔤 3,145,506 Input Tokens, 297,469 Output Tokens
+🔤 463,176 Input Tokens, 266,783 Output Tokens
 
-💵 $19.39 Estimated AI Cost This Week
+💵 $5.39 Estimated AI Cost This Week
 
-🧠 190 AI Sessions, 196 AI Prompts
+🧠 187 AI Sessions, 191 AI Prompts
 
-Opus                     1 lines             █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.0% of written lines came from AI
-📚 Verbose Prompter — average 1,817 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 1,810 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 75.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
