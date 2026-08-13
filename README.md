@@ -6,30 +6,30 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C799%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C799%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.01%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.20%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4936 commits        ██████████░░░░░░░░░░░░░░░   39.98 % 
-🌆 Daytime                6308 commits        █████████████░░░░░░░░░░░░   51.10 % 
-🌃 Evening                1077 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+🌞 Morning                5570 commits        ██████████░░░░░░░░░░░░░░░   40.52 % 
+🌆 Daytime                7068 commits        █████████████░░░░░░░░░░░░   51.41 % 
+🌃 Evening                1085 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3359 commits        ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-Tuesday                  1879 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Wednesday                2429 commits        █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Thursday                 1728 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Friday                   1741 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Saturday                 736 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Sunday                   473 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Monday                   3752 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Tuesday                  2154 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Wednesday                2710 commits        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Thursday                 1938 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Friday                   1963 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Saturday                 757 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Sunday                   473 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 
 
@@ -37,37 +37,35 @@ Sunday                   473 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    27 mins             ███████████████░░░░░░░░░░   59.70 % 
-TypeScript               10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Nix                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Other                    4 mins              ██████████████░░░░░░░░░░░   56.27 % 
+Nix                      3 mins              ██████████░░░░░░░░░░░░░░░   39.72 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🐱‍💻 Projects: 
-spaced-learner           41 mins             ███████████████████████░░   90.66 % 
-dotfiles                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-nixos                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+spaced-learner           4 mins              ██████████████░░░░░░░░░░░   56.27 % 
+nixos                    3 mins              ███████████░░░░░░░░░░░░░░   43.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (90.3%)
+⏱ AI Coding Time: 4 mins (56.27%)
 
-✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 463,176 Input Tokens, 266,783 Output Tokens
+🔤 8,666 Input Tokens, 5,071 Output Tokens
 
-💵 $5.39 Estimated AI Cost This Week
+💵 $2.53 Estimated AI Cost This Week
 
-🧠 187 AI Sessions, 191 AI Prompts
+🧠 9 AI Sessions, 9 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,810 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 224 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
