@@ -15,20 +15,20 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5570 commits        ██████████░░░░░░░░░░░░░░░   40.52 % 
-🌆 Daytime                7068 commits        █████████████░░░░░░░░░░░░   51.41 % 
-🌃 Evening                1085 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+🌞 Morning                5571 commits        ██████████░░░░░░░░░░░░░░░   40.50 % 
+🌆 Daytime                7069 commits        █████████████░░░░░░░░░░░░   51.40 % 
+🌃 Evening                1090 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3752 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-Tuesday                  2154 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Wednesday                2710 commits        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Thursday                 1938 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Friday                   1963 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Saturday                 757 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Monday                   3754 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Tuesday                  2156 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Wednesday                2713 commits        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Thursday                 1938 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Friday                   1963 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Saturday                 757 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 Sunday                   473 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 
@@ -37,35 +37,17 @@ Sunday                   473 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 mins              ██████████████░░░░░░░░░░░   56.27 % 
-Nix                      3 mins              ██████████░░░░░░░░░░░░░░░   39.72 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Nix                      3 mins              ███████████████████████░░   90.83 % 
+TypeScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 
 🐱‍💻 Projects: 
-spaced-learner           4 mins              ██████████████░░░░░░░░░░░   56.27 % 
-nixos                    3 mins              ███████████░░░░░░░░░░░░░░   43.73 % 
+nixos                    3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (56.27%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 8,666 Input Tokens, 5,071 Output Tokens
-
-💵 $2.53 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 9 AI Prompts
-
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 224 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
