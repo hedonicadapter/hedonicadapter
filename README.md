@@ -6,30 +6,30 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C801%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C801%20hrs%2057%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.44%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.56%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6393 commits        ██████████░░░░░░░░░░░░░░░   41.07 % 
-🌆 Daytime                8052 commits        █████████████░░░░░░░░░░░░   51.72 % 
-🌃 Evening                1099 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+🌞 Morning                6801 commits        ██████████░░░░░░░░░░░░░░░   41.29 % 
+🌆 Daytime                8544 commits        █████████████░░░░░░░░░░░░   51.88 % 
+🌃 Evening                1101 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   4264 commits        ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-Tuesday                  2515 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Wednesday                3078 commits        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Thursday                 2204 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Friday                   2249 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Saturday                 785 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Sunday                   473 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Monday                   4516 commits        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+Tuesday                  2692 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Wednesday                3259 commits        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Thursday                 2339 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Friday                   2392 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Saturday                 799 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Sunday                   473 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 
 
@@ -37,22 +37,21 @@ Sunday                   473 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 11 mins        ████████████░░░░░░░░░░░░░   46.62 % 
-Bash                     46 mins             ████████░░░░░░░░░░░░░░░░░   30.50 % 
-Astro                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Nix                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+TypeScript               1 hr 10 mins        ████████████░░░░░░░░░░░░░   47.52 % 
+Bash                     46 mins             ████████░░░░░░░░░░░░░░░░░   31.23 % 
+Astro                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Nix                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🐱‍💻 Projects: 
-boleva-clean             2 hrs 8 mins        █████████████████████░░░░   84.26 % 
-boleva                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-nixos                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+boleva-clean             2 hrs 8 mins        ██████████████████████░░░   86.31 % 
+boleva                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 18 mins (90.85%)
+⏱ AI Coding Time: 2 hrs 18 mins (93.04%)
 
 ✍️ 206 lines written by AI, 71 lines written by hand (74.37% AI-written)
 
@@ -70,7 +69,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 🤖 AI-Driven — 74.37% of written lines came from AI
 📝 Concise Prompter — average 284 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 19.72% of changed lines were hand-edited
+🚀 High AI Trust — 20.6% of changed lines were hand-edited
 ```
 
 
