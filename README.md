@@ -6,71 +6,11 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C801%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C802%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.63%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7024 commits        ██████████░░░░░░░░░░░░░░░   41.43 % 
-🌆 Daytime                8805 commits        █████████████░░░░░░░░░░░░   51.93 % 
-🌃 Evening                1102 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   4655 commits        ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Tuesday                  2787 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Wednesday                3353 commits        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Thursday                 2410 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Friday                   2471 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Saturday                 806 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Sunday                   473 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               1 hr 10 mins        ████████████░░░░░░░░░░░░░   47.52 % 
-Bash                     46 mins             ████████░░░░░░░░░░░░░░░░░   31.23 % 
-Astro                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Nix                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-
-🐱‍💻 Projects: 
-boleva-clean             2 hrs 8 mins        ██████████████████████░░░   86.31 % 
-boleva                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 18 mins (93.04%)
-
-✍️ 206 lines written by AI, 71 lines written by hand (74.37% AI-written)
-
-🔤 1,213,178 Input Tokens, 8,718 Output Tokens
-
-💵 $6.50 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 30 AI Prompts
-
-Github-Copilot           289 lines           █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 74.37% of written lines came from AI
-📝 Concise Prompter — average 284 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 20.6% of changed lines were hand-edited
-```
 
 
 <!--END_SECTION:waka-->
