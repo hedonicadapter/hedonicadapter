@@ -12,6 +12,65 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.63%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7024 commits        ██████████░░░░░░░░░░░░░░░   41.43 % 
+🌆 Daytime                8805 commits        █████████████░░░░░░░░░░░░   51.93 % 
+🌃 Evening                1102 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   4655 commits        ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+Tuesday                  2787 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Wednesday                3353 commits        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Thursday                 2410 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Friday                   2471 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Saturday                 806 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Sunday                   473 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 11 mins        ███████████░░░░░░░░░░░░░░   45.55 % 
+Bash                     53 mins             █████████░░░░░░░░░░░░░░░░   34.19 % 
+Astro                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Nix                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+
+🐱‍💻 Projects: 
+boleva-clean             2 hrs 16 mins       ██████████████████████░░░   86.99 % 
+boleva                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 18 mins (88.45%)
+
+✍️ 206 lines written by AI, 71 lines written by hand (74.37% AI-written)
+
+🔤 1,213,178 Input Tokens, 8,718 Output Tokens
+
+💵 $4.07 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 30 AI Prompts
+
+Github-Copilot           289 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 74.37% of written lines came from AI
+📝 Concise Prompter — average 284 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 30.7% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
 
