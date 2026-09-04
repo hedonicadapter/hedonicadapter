@@ -6,7 +6,7 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C802%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C802%20hrs%2044%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%205%20mins-blue?style=flat)
 
@@ -37,13 +37,13 @@ Sunday                   477 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     7 mins              ████████████████░░░░░░░░░   65.00 % 
-Bash                     3 mins              ████████░░░░░░░░░░░░░░░░░   33.79 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+JSON                     7 mins              █████████████░░░░░░░░░░░░   51.38 % 
+TypeScript               4 mins              ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+Bash                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
 
 🐱‍💻 Projects: 
-eid-web-shared           7 mins              ████████████████░░░░░░░░░   65.00 % 
-boleva-clean             3 mins              █████████░░░░░░░░░░░░░░░░   35.00 % 
+eid-web-shared           7 mins              █████████████░░░░░░░░░░░░   51.38 % 
+boleva-clean             6 mins              ████████████░░░░░░░░░░░░░   48.62 % 
 ```
 
 🤖 **AI Coding This Week** 
