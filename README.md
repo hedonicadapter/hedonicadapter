@@ -37,13 +37,11 @@ Sunday                   477 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     7 mins              █████████████░░░░░░░░░░░░   51.38 % 
-TypeScript               4 mins              ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-Bash                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+TypeScript               4 mins              ███████████████░░░░░░░░░░   59.61 % 
+Bash                     2 mins              ██████████░░░░░░░░░░░░░░░   40.39 % 
 
 🐱‍💻 Projects: 
-eid-web-shared           7 mins              █████████████░░░░░░░░░░░░   51.38 % 
-boleva-clean             6 mins              ████████████░░░░░░░░░░░░░   48.62 % 
+boleva-clean             6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
