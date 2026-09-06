@@ -6,7 +6,7 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C802%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C802%20hrs%2057%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%205%20mins-blue?style=flat)
 
@@ -37,11 +37,12 @@ Sunday                   477 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 mins              ███████████████░░░░░░░░░░   59.61 % 
-Bash                     2 mins              ██████████░░░░░░░░░░░░░░░   40.39 % 
+JavaScript               8 mins              ███████████░░░░░░░░░░░░░░   42.76 % 
+Bash                     5 mins              ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+TypeScript               5 mins              ███████░░░░░░░░░░░░░░░░░░   27.34 % 
 
 🐱‍💻 Projects: 
-boleva-clean             6 mins              █████████████████████████   100.00 % 
+boleva-clean             19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
