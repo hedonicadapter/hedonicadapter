@@ -37,13 +37,10 @@ Sunday                   477 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     4 mins              █████████████████████░░░░   83.92 % 
-Nix                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Bash                     4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-boleva-clean             4 mins              █████████████████████░░░░   83.92 % 
-dotfiles                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+boleva-clean             4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
