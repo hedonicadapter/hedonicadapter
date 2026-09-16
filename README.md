@@ -37,7 +37,8 @@ Sunday                   477 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     4 mins              █████████████████████████   100.00 % 
+Bash                     4 mins              █████████████████████████   98.29 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🐱‍💻 Projects: 
 boleva-clean             4 mins              █████████████████████████   100.00 % 
