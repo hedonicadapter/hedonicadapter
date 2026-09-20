@@ -8,7 +8,7 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C803%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.71%20million%20lines%20of%20code-blue?style=flat)
 
@@ -37,40 +37,40 @@ Sunday                   477 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    14 mins             ███████████░░░░░░░░░░░░░░   44.77 % 
-JSON                     13 mins             ███████████░░░░░░░░░░░░░░   43.17 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Nix                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Other                    17 mins             █████████████░░░░░░░░░░░░   50.34 % 
+JSON                     14 mins             ██████████░░░░░░░░░░░░░░░   39.30 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Nix                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-claude                   13 mins             ███████████░░░░░░░░░░░░░░   43.17 % 
-MDG                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-mods_decompiler_GUI_2.3.23 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-decompiler               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+claude                   27 mins             ███████████████████░░░░░░   76.04 % 
+decompiler               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+dotfiles                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+upgrader-1.2.0-src       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (87.94%)
+⏱ AI Coding Time: 31 mins (89.65%)
 
 ✍️ 756 lines written by AI, 143 lines written by hand (84.09% AI-written)
 
-🔤 228,950 Input Tokens, 82,690 Output Tokens
+🔤 364,501 Input Tokens, 79,617 Output Tokens
 
-💵 $4.56 Estimated AI Cost This Week
+💵 $4.71 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 7 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
 Opus                     756 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 84.09% of written lines came from AI
-📄 Detailed Prompter — average 1,137 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 40.24% of changed lines were hand-edited
+📄 Detailed Prompter — average 745 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 15.91% of changed lines were hand-edited
 ```
 
 
