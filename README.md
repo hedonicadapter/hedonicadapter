@@ -15,18 +15,18 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10351 commits       ███████████░░░░░░░░░░░░░░   42.73 % 
-🌆 Daytime                12713 commits       █████████████░░░░░░░░░░░░   52.48 % 
-🌃 Evening                1138 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+🌞 Morning                10352 commits       ███████████░░░░░░░░░░░░░░   42.72 % 
+🌆 Daytime                12714 commits       █████████████░░░░░░░░░░░░   52.47 % 
+🌃 Evening                1143 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   6740 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Tuesday                  4340 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Wednesday                4743 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Thursday                 3427 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Monday                   6742 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+Tuesday                  4342 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Wednesday                4746 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Thursday                 3427 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 Friday                   3589 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 Saturday                 910 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 Sunday                   477 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
@@ -37,24 +37,23 @@ Sunday                   477 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    17 mins             █████████████░░░░░░░░░░░░   50.34 % 
-JSON                     14 mins             ██████████░░░░░░░░░░░░░░░   39.30 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Nix                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JSON                     14 mins             ███████████░░░░░░░░░░░░░░   45.49 % 
+Other                    13 mins             ███████████░░░░░░░░░░░░░░   42.52 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Nix                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-claude                   27 mins             ███████████████████░░░░░░   76.04 % 
-decompiler               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-dotfiles                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-upgrader-1.2.0-src       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+claude                   27 mins             ██████████████████████░░░   88.02 % 
+Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+dotfiles                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+boleva-clean             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (89.65%)
+⏱ AI Coding Time: 27 mins (88.02%)
 
 ✍️ 756 lines written by AI, 143 lines written by hand (84.09% AI-written)
 
@@ -62,13 +61,13 @@ upgrader-1.2.0-src       1 min               █░░░░░░░░░░�
 
 💵 $4.71 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 11 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
 
 Opus                     756 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 84.09% of written lines came from AI
-📄 Detailed Prompter — average 745 characters per prompt
+📄 Detailed Prompter — average 1,151 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 15.91% of changed lines were hand-edited
 ```
