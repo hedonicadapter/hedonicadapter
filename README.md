@@ -10,25 +10,25 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.71%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.72%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10352 commits       ███████████░░░░░░░░░░░░░░   42.72 % 
-🌆 Daytime                12714 commits       █████████████░░░░░░░░░░░░   52.47 % 
+🌞 Morning                10354 commits       ███████████░░░░░░░░░░░░░░   42.72 % 
+🌆 Daytime                12715 commits       █████████████░░░░░░░░░░░░   52.46 % 
 🌃 Evening                1143 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   6742 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Tuesday                  4342 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Monday                   6743 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+Tuesday                  4343 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
 Wednesday                4746 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
 Thursday                 3427 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Friday                   3589 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Saturday                 910 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Friday                   3590 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Saturday                 910 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 Sunday                   477 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
@@ -37,23 +37,21 @@ Sunday                   477 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     14 mins             ███████████░░░░░░░░░░░░░░   45.49 % 
-Other                    13 mins             ███████████░░░░░░░░░░░░░░   42.52 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Nix                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+JSON                     14 mins             ███████████░░░░░░░░░░░░░░   45.62 % 
+Other                    13 mins             ███████████░░░░░░░░░░░░░░   42.64 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Nix                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 🐱‍💻 Projects: 
-claude                   27 mins             ██████████████████████░░░   88.02 % 
-Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-dotfiles                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-boleva-clean             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+claude                   27 mins             ██████████████████████░░░   88.25 % 
+Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+dotfiles                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (88.02%)
+⏱ AI Coding Time: 27 mins (88.25%)
 
 ✍️ 756 lines written by AI, 143 lines written by hand (84.09% AI-written)
 
