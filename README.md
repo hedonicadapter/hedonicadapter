@@ -37,23 +37,23 @@ Sunday                   477 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     14 mins             ███████████░░░░░░░░░░░░░░   45.62 % 
-Other                    13 mins             ███████████░░░░░░░░░░░░░░   42.64 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Nix                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+JSON                     14 mins             ███████████░░░░░░░░░░░░░░   45.44 % 
+Other                    13 mins             ███████████░░░░░░░░░░░░░░   42.48 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Nix                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🐱‍💻 Projects: 
-claude                   27 mins             ██████████████████████░░░   88.25 % 
-Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-dotfiles                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+claude                   27 mins             ██████████████████████░░░   87.92 % 
+Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+dotfiles                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (88.25%)
+⏱ AI Coding Time: 27 mins (87.92%)
 
-✍️ 756 lines written by AI, 143 lines written by hand (84.09% AI-written)
+✍️ 756 lines written by AI, 144 lines written by hand (84.0% AI-written)
 
 🔤 364,501 Input Tokens, 79,617 Output Tokens
 
@@ -64,10 +64,10 @@ dotfiles                 1 min               █░░░░░░░░░░�
 Opus                     756 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.09% of written lines came from AI
+🤖 AI-Driven — 84.0% of written lines came from AI
 📄 Detailed Prompter — average 1,151 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 15.91% of changed lines were hand-edited
+🚀 High AI Trust — 16.0% of changed lines were hand-edited
 ```
 
 
