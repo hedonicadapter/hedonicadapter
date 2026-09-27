@@ -12,62 +12,6 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.82%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10615 commits       ███████████░░░░░░░░░░░░░░   42.77 % 
-🌆 Daytime                13017 commits       █████████████░░░░░░░░░░░░   52.45 % 
-🌃 Evening                1160 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   6899 commits        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-Tuesday                  4466 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Wednesday                4857 commits        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Thursday                 3508 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Friday                   3678 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Saturday                 928 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Sunday                   480 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    13 mins             ████████████████████████░   96.72 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-
-🐱‍💻 Projects: 
-claude                   13 mins             █████████████████████████   99.14 % 
-dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 13 mins (99.14%)
-
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
-
-🔤 161,440 Input Tokens, 2,955 Output Tokens
-
-💵 $0.60 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 52 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
 
