@@ -10,7 +10,46 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.82%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.91%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10852 commits       ███████████░░░░░░░░░░░░░░   42.82 % 
+🌆 Daytime                13302 commits       █████████████░░░░░░░░░░░░   52.49 % 
+🌃 Evening                1166 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   7049 commits        ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+Tuesday                  4579 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Wednesday                4963 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Thursday                 3579 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Friday                   3759 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Saturday                 935 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Sunday                   480 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Nix                      0 secs              ███████████████░░░░░░░░░░   58.33 % 
+JavaScript               0 secs              ██████████░░░░░░░░░░░░░░░   41.67 % 
+
+🐱‍💻 Projects: 
+dotfiles                 0 secs              ███████████████░░░░░░░░░░   58.33 % 
+boleva-clean             0 secs              ██████████░░░░░░░░░░░░░░░   41.67 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 
 <!--END_SECTION:waka-->
