@@ -6,30 +6,30 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hedonicadapter&theme=highcontrast"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C803%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C803%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.00%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.01%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11088 commits       ███████████░░░░░░░░░░░░░░   42.87 % 
-🌆 Daytime                13585 commits       █████████████░░░░░░░░░░░░   52.52 % 
-🌃 Evening                1167 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+🌞 Morning                11136 commits       ███████████░░░░░░░░░░░░░░   42.87 % 
+🌆 Daytime                13625 commits       █████████████░░░░░░░░░░░░   52.46 % 
+🌃 Evening                1189 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   7196 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Tuesday                  4690 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Wednesday                5066 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Thursday                 3650 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Friday                   3840 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Saturday                 942 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Sunday                   480 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Monday                   7214 commits        ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+Tuesday                  4710 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Wednesday                5076 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Thursday                 3670 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Friday                   3854 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Saturday                 964 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Sunday                   486 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 ```
 
 
@@ -37,11 +37,13 @@ Sunday                   480 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     4 mins              █████████████████████████   98.31 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Bash                     5 mins              ████████████████░░░░░░░░░   62.35 % 
+JSON                     2 mins              ████████░░░░░░░░░░░░░░░░░   30.28 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🐱‍💻 Projects: 
-boleva-clean             4 mins              █████████████████████████   100.00 % 
+boleva-clean             8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
