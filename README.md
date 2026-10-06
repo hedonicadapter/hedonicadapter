@@ -12,48 +12,6 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.01%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                11137 commits       ███████████░░░░░░░░░░░░░░   42.87 % 
-🌆 Daytime                13630 commits       █████████████░░░░░░░░░░░░   52.46 % 
-🌃 Evening                1189 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   7216 commits        ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Tuesday                  4710 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Wednesday                5076 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Thursday                 3670 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Friday                   3858 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Saturday                 964 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Sunday                   486 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Bash                     5 mins              ██████████░░░░░░░░░░░░░░░   41.84 % 
-Text                     3 mins              ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-JSON                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-
-🐱‍💻 Projects: 
-boleva-clean             8 mins              █████████████████░░░░░░░░   66.44 % 
-Unknown Project          3 mins              ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-nixos                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
