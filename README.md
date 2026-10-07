@@ -10,7 +10,49 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.01%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.11%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                11374 commits       ███████████░░░░░░░░░░░░░░   42.92 % 
+🌆 Daytime                13913 commits       █████████████░░░░░░░░░░░░   52.50 % 
+🌃 Evening                1190 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   7363 commits        ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Tuesday                  4821 commits        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Wednesday                5179 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Thursday                 3741 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Friday                   3940 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Saturday                 971 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Sunday                   486 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Text                     3 mins              ████████████░░░░░░░░░░░░░   48.69 % 
+JSON                     3 mins              ██████████░░░░░░░░░░░░░░░   39.30 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+
+🐱‍💻 Projects: 
+Unknown Project          3 mins              ████████████░░░░░░░░░░░░░   48.69 % 
+boleva-clean             3 mins              ███████████░░░░░░░░░░░░░░   45.20 % 
+nixos                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 
 <!--END_SECTION:waka-->
