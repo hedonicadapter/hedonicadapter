@@ -37,15 +37,12 @@ Sunday                   486 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     3 mins              ████████████░░░░░░░░░░░░░   48.69 % 
-JSON                     3 mins              ██████████░░░░░░░░░░░░░░░   39.30 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Text                     3 mins              ██████████████████████░░░   88.84 % 
+JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 mins              ████████████░░░░░░░░░░░░░   48.69 % 
-boleva-clean             3 mins              ███████████░░░░░░░░░░░░░░   45.20 % 
-nixos                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Unknown Project          3 mins              ██████████████████████░░░   88.84 % 
+nixos                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 ```
 
 🤖 **AI Coding This Week** 
