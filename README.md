@@ -10,24 +10,24 @@ BSc in Systems Science and a love-hate relationship with psychology and behavior
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.40%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12091 commits       ███████████░░░░░░░░░░░░░░   43.06 % 
-🌆 Daytime                14771 commits       █████████████░░░░░░░░░░░░   52.60 % 
-🌃 Evening                1195 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+🌞 Morning                12095 commits       ███████████░░░░░░░░░░░░░░   43.05 % 
+🌆 Daytime                14777 commits       █████████████░░░░░░░░░░░░   52.60 % 
+🌃 Evening                1197 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   7806 commits        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-Tuesday                  5158 commits        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Wednesday                5493 commits        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Thursday                 3960 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Friday                   4186 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Monday                   7806 commits        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+Tuesday                  5162 commits        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Wednesday                5495 commits        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Thursday                 3966 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Friday                   4186 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 Saturday                 992 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 Sunday                   486 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
@@ -37,14 +37,12 @@ Sunday                   486 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    27 mins             █████████████░░░░░░░░░░░░   52.35 % 
-Nix                      20 mins             ██████████░░░░░░░░░░░░░░░   40.03 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Other                    27 mins             ██████████████░░░░░░░░░░░   56.67 % 
+Nix                      20 mins             ███████████░░░░░░░░░░░░░░   43.33 % 
 
 🐱‍💻 Projects: 
-Unknown Project          29 mins             ██████████████░░░░░░░░░░░   55.88 % 
-todo                     20 mins             ██████████░░░░░░░░░░░░░░░   40.03 % 
-eid-web-shared           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Unknown Project          27 mins             ██████████████░░░░░░░░░░░   56.67 % 
+todo                     20 mins             ███████████░░░░░░░░░░░░░░   43.33 % 
 ```
 
 🤖 **AI Coding This Week** 
